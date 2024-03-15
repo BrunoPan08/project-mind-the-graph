@@ -66,21 +66,21 @@ export const featuresModal = [
 
 export const features = [
   {
-    id: "feedback-1",
+    id: "features-1",
     content:
       "Improve your papers’ impact and visibility through quality visual communication",
     title: "Graphical Abstracts and Infographics",
     img: image2,
   },
   {
-    id: "feedback-2",
+    id: "features-2",
     content:
       "Add visual impact to yourposters with scientific illustrations and graphics",
     title: "Scientific Poster in a few clicks",
     img: image3,
   },
   {
-    id: "feedback-3",
+    id: "features-3",
     content:
       "Transform your lectures,meetings and classes into high-impact visual experiences",
     title: "Make better Slide Presentation",
