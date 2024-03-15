@@ -4,7 +4,7 @@ const FeatureCard = ({ content, title, img }) => (
     <h4 className="font-lato text-center font-semibold text-[24px] leading-[32px] text-white">
       {title}
     </h4>
-    <p className="font-lato text-center font-normal text-[20px] leading-[32.4px]  my-10 text-white">
+    <p className="font-lato text-center font-normal text-[20px] leading-[23.4px]  my-5 text-white">
       {content}
     </p>
   </div>
